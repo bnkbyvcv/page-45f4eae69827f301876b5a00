@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "20674aa16de8ea52827c1581",
+  "owner": "bnkbyvcv",
+  "repo": "page-45f4eae69827f301876b5a00",
+  "title": "VMSSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45f4eae69827f301876b5a00",
+      "a": "VMSSR",
+      "b": "2027最新官网",
+      "entity": "VMSSR",
+      "brand": "VMSSR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "184ba6bb45ca9d8d6920688211a65bf50aecb48eef00c22fe2cc4d03f19ec31f",
+      "content": {
+        "primary_entity": "VMSSR",
+        "keyword1": "VMSSR",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器环境可分别选用对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量，挑一档合适的 VMSSR 套餐开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，VMSSR 提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35、¥85，按年付可低至 ¥150/年、¥350/年、¥850/年。基础版适合 3 台设备与每月 100GB 流量；旗舰版覆盖 5 台设备与每月 300GB 流量，加入 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版面向 20 台设备与每月 1000GB 流量，提供 VIP 专属高带宽节点与企业定制路由。日常浏览、流媒体与游戏加速需求均可按设备数量与流量档位选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度了解 VMSSR 的使用方式。",
+          "AI_FEATURES_TITLE": "订阅前可关注的三个方面",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑与路由器可按需分配在线设备数，避免超出所选套餐的设备上限。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰版与团队版年付均只需十个月价格，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "套餐按流量与设备区分",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "月付与年付选择",
+          "AI_GUIDE_INTRO": "按选定套餐完成设备适配与订阅导入，即可开始使用。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "VMSSR 提供基础版、旗舰版与团队版三档海外加速订阅，按设备数量与月流量区分。旗舰版含 IPLC 专线游戏加速优化与优先工单支持，团队版面向多设备与企业定制路由场景。",
+          "AI_HERO_SUBTITLE": "VMSSR 多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案相当于十个月价格",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端适配要求，查看是否需要额外路由或网关配置。",
+          "AI_STEP_TEXT_3": "依照所选客户端的订阅导入文档，将 VMSSR 订阅信息填入对应客户端。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "VMSSR 订阅配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "VMSSR 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在续费或新周期开始前更换套餐，差价按剩余周期折算。具体操作可在账户中心发起变更。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出限制时需升级套餐。",
+          "AI_FAQ_QUESTION_3": "按年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "以基础版为例，月付 ¥15，年付 ¥150，相当于节省约两个月费用。旗舰版与团队版同样按年付有明显优惠。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "复制订阅地址后在客户端选择“从剪贴板导入”或手动粘贴，更新节点列表即可。不同客户端导入方式略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速和实时通讯优化，延迟更低、抖动更小，适合对稳定性要求较高的在线游戏与视频会议。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--666-9i9d4x.com",
+    "host": "xn--666-9i9d4x.com"
+  },
+  "file_hashes": {
+    "index.html": "17f1302f43e6f0b2614f94ca2a9ee00fa496a574c67ccc1fde139ec38aa50c33",
+    "sitemap.xml": "e971e34566800a3c5a6a160a58f76849c8ef3a0edd7a7b94382242ab768011c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "425bd863edf7c7ba89318052b2dc3c06b1ae38d8b6860d79c8dc636593ee727d",
+    "robots.txt": "2c28f8a3a9a2d1d5b8e6eed2ae024e63845af16d150cdcb0a233764408e21123",
+    "bc938c8a8fedd9d541a33e7c4ea057b6.txt": "6883196054170331a4c5110751bea4c426609125f222b5eb2879374f4f80f03c"
+  },
+  "revision": "4376fd6ba83709923b4c7927e58b3f8f8d1647a72050321849f99db25d09d416"
+}
